@@ -1,4 +1,4 @@
---topk3k 4.0 cracked by ded
+--topk3k 4.0 by Jack
 
 local ScreenGui = Instance.new("ScreenGui")
 
